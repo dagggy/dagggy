@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dagggy/dagggy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![dag](https://user-images.githubusercontent.com/43415554/150759322-c48eaab3-3bc3-4fd8-a61f-ac414fb67872.gif)
